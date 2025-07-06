@@ -3,7 +3,6 @@ author        = "Your Name"
 description   = "A simple ORM framework for Nim"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["xorm/xorm"]
 
 requires "nim >= 1.6.0"
 requires "db_connector"
