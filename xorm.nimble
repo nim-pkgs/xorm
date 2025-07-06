@@ -1,4 +1,4 @@
-version       = "0.1.0"
+version       = "0.1.1"
 author        = "Your Name"
 description   = "A simple ORM framework for Nim"
 license       = "MIT"
